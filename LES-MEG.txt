@@ -1,0 +1,10 @@
+METRO / 02 for iPhone
+
+1. Opprett GitHub-konto.
+2. Lag et offentlig repository med navn metro02.
+3. Last opp ALLE filene fra denne mappen til roten av repositoryet (ikke selve ZIP-filen).
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Åpne https://BRUKERNAVN.github.io/metro02/ i Safari på iPhone.
+6. Del > Legg til på Hjem-skjerm.
+
+Merk: Sanntidskoblingen avhenger av Entur og nettverkstilgang.
